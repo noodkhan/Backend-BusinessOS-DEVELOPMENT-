@@ -1,0 +1,2 @@
+1. make more user
+2. make algorithms that cut inventory from recipe 
